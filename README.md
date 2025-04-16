@@ -66,3 +66,10 @@ This app can be especially useful for:
 - Startups in the automobile resale market
 
 ---
+
+## 🔗 Download Pickle File
+
+You can download the trained model here:
+
+[Download model.pkl from Google Drive] (https://drive.google.com/file/d/1d4lQxDuvOg6jHCIE8t8AQzb3IrDUCmSN/view?usp=drive_link)
+
